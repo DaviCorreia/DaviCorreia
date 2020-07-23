@@ -17,9 +17,9 @@ src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-ori
 src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></p><p align="center"> <img
 src="https://github-readme-stats.vercel.app/api?username=DaviCorreia&show_icons=true" alt="DaviCorreia" /> </h1>
 
-
+<p align="center">
 <a href="linkedin.com/in/davi-correia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="DaviCorreia" height="40" width="40" /></a>
-
+</p>
 
 
 
