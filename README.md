@@ -2,14 +2,13 @@
 <h3 align="center">Computer science student,enthusiast of the best web and mobile development technologies</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DaviCorreia" alt="DaviCorreia" /> </p>
 
-- Python
 - JavaScipt
 - React
 - Web Development
 - Machine Learning
 - Deep learning
-- Natural language processing
 - App Development
+- Python
 
 📫 How to reach me **davi.correia@dcx.ufpb.br** or **davicorreia21@gmail.com** 
 
